@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Cactus",
+      "image": "https://redsquareflowers.com/wp-content/uploads/2020/12/Cactus-plants-madison-wi.jpg",
+      "price": "15",
+      "id": 8
+    },
+    {
+      "name": "Sunflower",
+      "image": "https://cdn11.bigcommerce.com/s-1pu3v7awq8/images/stencil/1280x1280/products/830/1176/FB68_LOL__48385.1593810869.jpg?c=2",
+      "price": "58",
+      "id": 9
     }
   ]
 }
